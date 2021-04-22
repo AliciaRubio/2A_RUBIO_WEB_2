@@ -1,0 +1,499 @@
+.container{
+    grid: grid;
+    margin-bottom: auto;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: .5em;
+    padding: 2em;
+    background: #FBFBFB;
+}
+.content{
+    color: rgb(99, 98, 98);
+    text-align: left;
+    display: inline;
+}
+.content01{
+    color: rgb(99, 98, 98);
+    display: inline;
+    padding:  10px 495px;
+}
+
+
+.container2{
+    grid: grid;
+    margin-bottom: auto;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: .5em;
+    padding: 15em;
+    background-image: url("file:///C:/Users/ASUS/OneDrive/Im%C3%A1genes/WBA/IMG_20210317_115419.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.content2{
+    position: absolute;
+width: 319px;
+height: 50px;
+left: 552px;
+top: 210px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+display: flex;
+align-items: center;
+color: #FBFBFB;
+}
+.wrapper1{
+    position: absolute;
+    width: 383px;
+    height: 383px;
+    left: 150px;
+    top: 140px;
+    background: #ECEBEB;
+    border-radius: 213px;
+}
+.wrapper {
+    position: absolute;
+    width: 400px;
+    height: 59px;
+    left: 450px;
+    top: 270px;   
+}
+.item {
+    color: rgb(99, 98, 98);
+    background: #FBFBFB;
+    padding: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 61px;
+}
+.wrapper2 {
+    position: absolute;
+    width: 400px;
+    height: 59px;
+    left: 450px;
+    top: 370px;   
+}
+.item2 {
+    color: #FBFBFB;
+    padding: 30px;
+    text-align: center;
+    background: #a08478;
+    border: 5px solid #FBFBFB;
+    box-sizing: border-box;
+    border-radius: 61px;
+}
+
+
+
+
+.container3{
+    grid: grid;
+    margin-bottom: auto;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: .5em;
+    padding: 16em;
+    background: #FBFBFB;
+}
+.wrapper3{
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    left: 110px;
+    top: 635px;
+}
+.item3{
+    color:#FBFBFB;
+    background: #a08478;
+    padding: 110px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 61px;
+}
+.wrapper4{
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    left: 705px;
+    top: 635px;
+}
+.item4{
+    color: rgb(99, 98, 98);
+    background: #a08478;
+    padding: 106px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 61px;
+    background: #FBFBFB;
+    box-sizing: border-box;
+    border: 5px solid #a08478;
+}
+.container5{
+    position: absolute;
+    width: 1247px;
+    height: 15px;
+    left: 8px;
+    background: #ECEBEB;
+}
+
+
+
+
+.container6{
+    grid: grid;
+    margin-bottom: auto;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: .5em;
+    padding: 16em;
+    background: #FBFBFB;
+}
+.wrapper5{
+    position: absolute;
+    width: 450px;
+    height: 400px;
+    left: 110px;
+    top: 1150px;
+    background-color: #E1DDDD;;
+}
+.wrapper6 {
+    position: absolute;
+    width: 500px;
+    height: 150px;
+    left: 680px;
+    top: 1150px;   
+}
+.item6 {
+    color: rgb(99, 98, 98);
+    padding: 35px;
+    text-align: center;
+    background: #FBFBFB;
+    border: 5px solid #a08478;
+    box-sizing: border-box;
+    border-radius: 61px;
+}
+.wrapper7 {
+    position: absolute;
+    width: 500px;
+    height: 150px;
+    left: 680px;
+    top: 1380px;   
+}
+.item7 {
+    color: rgb(99, 98, 98);
+    padding: 35px;
+    text-align: center;
+    background: #FBFBFB;
+    border: 5px solid #a08478;
+    box-sizing: border-box;
+    border-radius: 61px;
+}
+.container7{
+    position: absolute;
+    width: 1247px;
+    height: 15px;
+    left: 8px;
+    background: #ECEBEB;
+}
+
+
+
+.container8{
+    grid: grid;
+    margin-bottom: auto;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: .5em;
+    padding: 16em;
+    background: #FBFBFB;
+}
+.wrapper8{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 110px;
+    top: 1680px;
+    background-color: #E1DDDD;;
+}
+.wrapper9{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 910px;
+    top: 1680px;
+    background-color: #E1DDDD;;
+}
+.wrapper10{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 510px;
+    top: 1680px;
+    background-color: #E1DDDD;;
+}
+.wrapper11 {
+    position: absolute;
+    width: 480px;
+    height: 59px;
+    left:400px;
+    top: 2000px;   
+}
+.item11 {
+    color: #E1DDDD;;
+    background: #a08478;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 61px;
+}
+
+
+
+
+.container9{
+    grid: grid;
+    margin-bottom: auto;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: .5em;
+    padding: 2.5em;
+    background: #ECEBEB;
+    text-align: center;
+}
+.content3{
+    color: rgb(99, 98, 98);
+    padding: 10px 25px;
+    display: inline;
+}
+.content4{
+    color: rgb(99, 98, 98);
+    padding: 10px 25px;
+    display: inline;
+}
+.content5{
+    color: rgb(99, 98, 98);
+    padding: 10px 25px;
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+.container222 {
+    grid: grid;
+    margin-bottom: auto;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: .5em;
+    padding: 12.5em;
+    background: #eceaea;
+}
+.container999{
+    grid: grid;
+    margin-bottom: auto;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: .5em;
+    padding: 2.5em;
+    background: #FBFBFB;
+    text-align: center;
+}
+.content333{
+    color:  rgb(99, 98, 98);
+    padding: 10px 25px;
+    display: inline;
+}
+.content444{
+    color: rgb(99, 98, 98);
+    padding: 10px 25px;
+    display: inline;
+}
+.content555{
+    color: rgb(99, 98, 98);
+    padding: 10px 25px;
+    display: inline;
+}
+.wrapper555{
+    position: absolute;
+    width: 330px;
+    height: 280px;
+    left: 270px;
+    top: 155px;
+    background-color: #FBFBFB;
+    background-image: url("file:///C:/Users/ASUS/Downloads/IMG_20210317_115010.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrapper666{
+    position: absolute;
+    width: 330px;
+    height: 280px;
+    left: 655px;
+    top: 155px;
+    background-color: #FBFBFB;
+    background-image: url("file:///C:/Users/ASUS/Downloads/IMG_20210317_114943.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+.wrapper777{
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    left: 450px;
+    top: 155px;
+    background-color: #fffbfb;
+}
+.container2222 {
+    grid: grid;
+    margin-bottom: auto;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: .5em;
+    padding: 16em;
+    background: #eceaea;
+}
+.content888{
+    position: absolute;
+    width: 319px;
+    height: 45px;
+    left: 140px;
+    top: 220px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color:  #FBFBFB;
+}
+.content999{
+    position: absolute;
+    width: 319px;
+    height: 45px;
+    left: 140px;
+    top: 220px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color:  #FBFBFB;
+}
+
+
+
+
+.container200{
+    grid: grid;
+    margin-bottom: auto;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: .5em;
+    padding: 17.7em;
+    background: #eceaea;    
+}
+.wrapper300{
+    position: absolute;
+    width: 628px;
+    height: 566px;
+    left: 8px;
+    top: 8px;
+    background-color: #a05151;
+    background-image: url("file:///C:/Users/ASUS/Downloads/IMG_20210317_185742.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrapper400{
+    position: absolute;
+    width: 628px;
+    height: 566px;
+    left: 630px;
+    top: 8px;
+    background-color: #a05151;
+    background-image: url("file:///C:/Users/ASUS/Downloads/IMG_20210317_185729.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container900{
+    grid: grid;
+    margin-bottom: auto;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: .5em;
+    padding: 17.7em;
+    background: #eceaea;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wrapper600{
+    position: absolute;
+    width: 628px;
+    height: 566px;
+    left: 8px;
+    top: 573px;
+    background-color: #a05151;
+    background-image: url("file:///C:/Users/ASUS/Downloads/IMG_20210317_133523.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrapper700{
+    position: absolute;
+    width: 628px;
+    height: 566px;
+    left: 630px;
+    top: 8px;
+    background-color: #a05151;
+    background-image: url("file:///C:/Users/ASUS/Downloads/IMG_20210317_133601.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
